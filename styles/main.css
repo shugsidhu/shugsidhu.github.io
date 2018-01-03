@@ -2,7 +2,7 @@ body {
   padding-bottom: 5rem;
 }
 header {
-  background: url(New York.jpg) center / cover;
+  background: url(../images/New-York.jpg) center / cover;
   height: 60vh;
   justify-content: center;
   text-align: center;
